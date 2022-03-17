@@ -54,6 +54,7 @@ Below is an example of how you can install and build the app. The following will
 ## Usage
 
 The application will display the top 50 words found in the url which points to the book Moby Dick. Some words were filtered out if overly common.
+While testing the results compared to some simple websites results I noticed some special characters would throw off the count. I handled this by removing those characters, however I did not want to intrude so much as to essentially destroy certain words all together. I also found that quotation marks were not easy to remove so I elected to keep those such that the words whale and "whale are considered to not be the same.
 
 
 
