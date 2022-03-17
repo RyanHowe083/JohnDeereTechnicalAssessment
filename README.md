@@ -2,7 +2,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-This project is for the technical showcase at Lean Techniques. The main idea is to display a specified photo album information from "https://jsonplaceholder.typicode.com/photos"
+This project is for the technical showcase at John Deere. It will display the top 50 found words from "https://www.gutenberg.org/files/2701/2701-0.txt"
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
